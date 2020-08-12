@@ -1,2 +1,2 @@
-##Dette er et prosjekt.##
-###Beste prosjekt noen sinne ###
+##Dette er et prosjekt.
+###Beste prosjekt noen sinne
